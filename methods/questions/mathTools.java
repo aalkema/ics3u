@@ -63,4 +63,16 @@ class Main {
     // 6.
     // Write a method that takes a number the user entered and
     // Determines if the number is Prime
+
+    // Wild territory
+
+    // 7.
+    // Write a method that takes 3 ints - a, b, c and prints a string
+    // showing the quadratic for those coefficients
+    // eg showQuadratic(3, 6, -2) should print "3x^2 + 6x - 2"
+
+    // 8.
+    // Find the roots of a quadratic given the coefficients
+    // eg findRoots(2, 3, -2) = 0.5 and -2
+    // find a way to deal with one real root/2 real roots/complex roots
 }
