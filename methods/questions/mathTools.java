@@ -53,12 +53,18 @@ class Main {
         XXXXX
     */
 
+    // 4b
+    // Write a method that takes a number and returns the factorial
+
     // Stretch goals for the crazy
 
     // 5.
-    // Make a menu where the user can enter the function they want to
-    // use, then ask for input for that function (eg - ask for odd or even,
-    // maximum, or drawRectangle, then ask for input)
+    // Make a menu that shows the calculation options that are available
+    // Allows the user to select an option
+    // Prompts for the necessary input
+    // Does the calculation, prints it
+    // Then loops back to the main menu
+    // Provide an option to quit the program in the menu
 
     // 6.
     // Write a method that takes a number the user entered and
