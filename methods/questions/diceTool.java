@@ -9,6 +9,8 @@ class Main {
         // If we pass in 3d8, we want getNumberOfFacesOnDie to return 8
         int numberOfFacesOnDie = getNumberOfFacesOnDie(userInput);
 
+        // rollDice will create an int[] with length equal to numberOfDiceToRoll
+        // each element will be one of the results of rolling a die.
         int[] rollResults = rollDice(numberOfDiceToRoll, numberOfFacesOnDie);
         printArray(rollResults);
 
