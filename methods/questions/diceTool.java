@@ -36,7 +36,7 @@ class Main {
         System.out.println("for example: 2d6 for 2 6 sided dice");
     }
 
-    public static void String getUserInput() {
+    public static String getUserInput() {
         // We expect the input to be in the form {int}d{int} for example, 2d6
         // 2d6 means we want to roll 2 6 sided dice
         // if it's not in the right format, tell the user, and ask again
